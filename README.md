@@ -1,5 +1,5 @@
 
-# Unified Multimodal Surveillance – Python Implementation Skeleton
+# End-to-End-Smart-City-Surveillance-System
 
 This archive contains a **structured PyTorch-style codebase** that mirrors the
 methodological steps described in the paper:
